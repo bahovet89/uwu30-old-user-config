@@ -59,7 +59,7 @@
     &kp N1          &kp N2          &kp N3          &kp N4          &kp N5          &kp N6          &kp N7          &kp N8          &kp N9          &kp N0
     &kp TAB         &trans          &trans          &trans          &trans          &trans          &kp UP          &trans          &kp MINUS       &kp EQUAL
     &kp LSHIFT      &trans          &trans          &trans          &kp LEFT        &kp DOWN        &kp RIGHT       &kp LBKT        &kp RBKT        &kp BACKSLASH
-    &kp LCTRL                       &trans          &trans          &trans          &trans                          &mo 3                           &trans
+    &kp LALT                        &trans          &trans          &trans          &trans                          &mo 3                           &trans
             >;
         };
 
